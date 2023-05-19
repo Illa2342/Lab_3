@@ -8,7 +8,7 @@
     "dev": "webpack serve"
   },
   "keywords": [],
-  "author": "Kestan Edem",
+  "author": "Drobnyy Illya",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
